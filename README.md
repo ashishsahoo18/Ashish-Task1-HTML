@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TuteDude Task 1 - Hello World HTML
 
 ## Task
@@ -13,3 +14,6 @@ Hello World!
 
 ## Deployed Website
 https://ashishsahoo18.github.io/Ashish-Task1-HTML/
+=======
+Complete Task 1 - Hello World
+>>>>>>> 578403faa2dfd91258e969115e5a7e93cd2c7f64
